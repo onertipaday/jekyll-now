@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About me
 
-Some information about you!
+Bioinformatician, Data Analyst, Open Source enthusiast and co-owner of three beautiful cats.
 
-### More Information
+### Get in Touch
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- [email](mailto:onertipaday@gmail.com)
+- [twitter](https://twitter.com/onertipaday)
