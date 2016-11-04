@@ -1,5 +1,10 @@
-# [The Book of R](https://www.nostarch.com/bookofr) Review
+---
+layout: post
+title: The Book of R - Review
+---
 
+
+# [The Book of R](https://www.nostarch.com/bookofr) Review
 
 This is a nice big book, useful for beginners of both statistics and R programming. Intermediate users can use the book as a desktop reference for both basic statistics  and R programming, particularly for generating plots. It cannot substitute a good statistics textbook but it provides a coverage of the subject from the basic concept of probability to hypothesis testing, ANOVA, statistical modeling and more. The author states from the beginning that his book follows a frequentist approach to statistics; if the reader is interested in an introduction to statistics which follows a bayesian perspective there are other more appropriate choices ( e.g. [Doing Bayesian Data Analysis: A Tutorial with R and BUGS by John K. Kruschke](https://sites.google.com/site/doingbayesiandataanalysis/) ).
 The book is organized in twenty-six chapters further collected into five parts, each chapter is accompanied with exercises and a list of references to the important code used. The first and second part introduce the R programming language depicting how to write programs and visualize data. The third and fourth part are dedicated to statistics, from the basics (elementary statistics and probability) to the most common statistical procedure used in the field. The fifth part indicates advanced techniques for visualizing data. Furthermore there are two appendices providing a short guide on installing and operating R packages (Appendix A) and introducing the reader to R Studio, a commonly used IDE for R (AppendixB).
